@@ -11,7 +11,7 @@ Repositorio criado para centralizar conteudos de cybersecurity
 
  
 
-Site| Idioma | Dedicação | Canais 
+Site| Idioma | Descrição | Canais 
 :-- | :--: | :--: | :--: 
 [Hackerone](https://www.hackerone.com/hackers/hacker101) | Inglês | Competições CTF/ treinamentos  | https://discord.com/invite/32ZNZVN
 [Google CTF](https://capturetheflag.withgoogle.com/) | Inglês | Competição CTF | ...
